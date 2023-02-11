@@ -1,4 +1,4 @@
-# kodluyoruz ilk repo
+# Kodluyoruz ilk repo
 Bu repo kodluyoruzFrontend eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet Readme ve Index.html barındırıyor.
 
 
